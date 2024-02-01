@@ -8,8 +8,7 @@ namespace Samples.Behaviours
     public class SampleBehaviour : MonoBehaviour
     {
         // This is what is used to check for gelato compatibility, if the chain doesn't match it will hide gelato functions in the test scene
-        //private const string DefaultChainId = "11155111";
-        private const string DefaultChainId = "1";
+        private const string DefaultChainId = "11155111";
 
         public async void Execute()
         {

@@ -1,0 +1,5 @@
+D:/jungle kabaddi/unity/PorkyPies/.utmp/RelWithDebInfo/r4k1c5c6/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/jungle kabaddi/unity/PorkyPies/.utmp/RelWithDebInfo/r4k1c5c6/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+D:/jungle kabaddi/unity/PorkyPies/.utmp/RelWithDebInfo/r4k1c5c6/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/jungle kabaddi/unity/PorkyPies/.utmp/RelWithDebInfo/r4k1c5c6/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+D:/jungle kabaddi/unity/PorkyPies/.utmp/RelWithDebInfo/r4k1c5c6/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
