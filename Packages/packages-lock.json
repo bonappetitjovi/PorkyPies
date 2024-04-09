@@ -1,5 +1,13 @@
 {
   "dependencies": {
+    "com.oinkink.porkypies": {
+      "version": "file:porkypack",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "io.chainsafe.web3-unity": "2.5.5"
+      }
+    },
     "com.unity.collab-proxy": {
       "version": "2.2.0",
       "depth": 0,
@@ -156,7 +164,7 @@
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "3.0.2"
       },
-      "hash": "5044f9520b370ff6ebdce708d29e74170c11186d"
+      "hash": "a9ca66719192a79766b76ad9f58768278a059b60"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",

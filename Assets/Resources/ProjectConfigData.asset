@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: ProjectConfigData
   m_EditorClassIdentifier: 
   projectID: ba1bb7b7-b27f-41bf-916f-6cb302da4819
-  chainID: 1
-  chain: Ethereum
-  network: Mainnet
-  symbol: Eth
-  rpc: https://eth.llamarpc.com
+  chainID: 11155111
+  chain: Sepolia
+  network: ETH
+  symbol: ETH
+  rpc: https://rpc.sepolia.org

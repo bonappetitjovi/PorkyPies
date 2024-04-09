@@ -1,0 +1,24 @@
+{
+  "name": "com.oinkink.porkypies",
+  "version": "0.0.7",
+  "displayName": "Porky Pies",
+  "description": "pack your lunch, pack your dinner and throw it away like medvedev did to sinner, jk dude did well",
+  "unity": "2023.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://pigpowpowaintwowwow.com/",
+  "changelogUrl": "https://pigpowpowaintwowwow.com/changelog.html",
+  "licensesUrl": "https://pigpowpowaintwowwow.com/licensing.html",
+  "keywords": [
+    "sexy",
+    "bois",
+    "indahouse"
+  ],
+  "author": {
+    "name": "Porkchop",
+    "email": "shaolinsoccer@noexistentcompany.com",
+    "url": "https://www.forgottobookadomain.com"
+  },
+  "dependencies": {
+    "io.chainsafe.web3-unity": "2.5.5"
+  }
+}
