@@ -1,3 +1,4 @@
+![1)](https://github.com/bonappetitjovi/PorkyPies/blob/main/1.jpg)
 ![banner (1)](https://raw.githubusercontent.com/bonappetitjovi/PorkyPies/main/banner%20(1).png)
 
 hello to the awesome guys at ChainSafe
