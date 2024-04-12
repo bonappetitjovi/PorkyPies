@@ -11,15 +11,17 @@ public class Scene2Controller : MonoBehaviour
         {
             obj.SetActive(false);
         }
+
+        // Activate objects based on equip value from Scene1Controller
+        ActivateScene2Object(Scene1Controller.instance.GetEquipValue());
     }
 
-    public void ActivateScene2Object(char objectIdentifier)
+    void ActivateScene2Object(int equip)
     {
-        // Activate corresponding object based on object identifier
-        char objectChar = char.ToUpper(objectIdentifier);
-        int index = objectChar - 'A'; // Convert char to index (A: 0, B: 1, ..., G: 6)
+        // Activate corresponding object based on equip value
+        int index = equip - 1; // Adjust index to match equip value
 
-        // Activate the corresponding object
+        // Activate the corresponding object if the index is valid
         if (index >= 0 && index < scene2Objects.Length)
         {
             scene2Objects[index].SetActive(true);
